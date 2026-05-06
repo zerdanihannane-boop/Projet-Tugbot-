@@ -1,0 +1,1 @@
+/home/omen/projet_robotique/build/tugbot_navigation2/ament_cmake_core/tugbot_navigation2Config-version.cmake

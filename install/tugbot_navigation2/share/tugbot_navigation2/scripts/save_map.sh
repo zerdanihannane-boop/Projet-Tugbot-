@@ -1,0 +1,1 @@
+/home/omen/projet_robotique/src/tugbot_navigation2/scripts/save_map.sh

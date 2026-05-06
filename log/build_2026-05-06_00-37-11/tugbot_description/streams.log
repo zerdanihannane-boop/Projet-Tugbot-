@@ -1,0 +1,36 @@
+[0.024s] Invoking command in '/home/omen/projet_robotique/build/tugbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_description
+[0.214s] -- The C compiler identification is GNU 13.3.0
+[0.355s] -- The CXX compiler identification is GNU 13.3.0
+[0.387s] -- Detecting C compiler ABI info
+[0.548s] -- Detecting C compiler ABI info - done
+[0.570s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.571s] -- Detecting C compile features
+[0.571s] -- Detecting C compile features - done
+[0.585s] -- Detecting CXX compiler ABI info
+[0.740s] -- Detecting CXX compiler ABI info - done
+[0.756s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.756s] -- Detecting CXX compile features
+[0.757s] -- Detecting CXX compile features - done
+[0.768s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.019s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.143s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.260s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[1.334s] -- Found rosidl_generator_c: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.354s] -- Found rosidl_generator_cpp: 4.6.7 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.378s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.406s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.552s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.558s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.704s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.753s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.800s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.267s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[2.270s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.437s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.437s] -- Configured 'flake8' exclude dirs and/or files: 
+[2.438s] -- Added test 'lint_cmake' to check CMake code style
+[2.438s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.440s] -- Added test 'xmllint' to check XML markup files
+[2.441s] -- Configuring done (2.4s)
+[2.447s] -- Generating done (0.0s)
+[2.449s] -- Build files have been written to: /home/omen/projet_robotique/build/tugbot_description

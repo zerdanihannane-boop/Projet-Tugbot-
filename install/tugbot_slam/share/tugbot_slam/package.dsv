@@ -1,0 +1,8 @@
+source;share/tugbot_slam/hook/cmake_prefix_path.ps1
+source;share/tugbot_slam/hook/cmake_prefix_path.dsv
+source;share/tugbot_slam/hook/cmake_prefix_path.sh
+source;share/tugbot_slam/local_setup.bash
+source;share/tugbot_slam/local_setup.dsv
+source;share/tugbot_slam/local_setup.ps1
+source;share/tugbot_slam/local_setup.sh
+source;share/tugbot_slam/local_setup.zsh

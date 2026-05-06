@@ -1,0 +1,43 @@
+[0.025s] Invoking command in '/home/omen/projet_robotique/build/tugbot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_navigation2
+[0.207s] -- The C compiler identification is GNU 13.3.0
+[0.345s] -- The CXX compiler identification is GNU 13.3.0
+[0.377s] -- Detecting C compiler ABI info
+[0.538s] -- Detecting C compiler ABI info - done
+[0.550s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.552s] -- Detecting C compile features
+[0.552s] -- Detecting C compile features - done
+[0.568s] -- Detecting CXX compiler ABI info
+[0.732s] -- Detecting CXX compiler ABI info - done
+[0.747s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.747s] -- Detecting CXX compile features
+[0.748s] -- Detecting CXX compile features - done
+[0.758s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.009s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.133s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.223s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.406s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.406s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.408s] -- Added test 'lint_cmake' to check CMake code style
+[1.409s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.411s] -- Added test 'xmllint' to check XML markup files
+[1.414s] -- Configuring done (1.4s)
+[1.419s] -- Generating done (0.0s)
+[1.422s] -- Build files have been written to: /home/omen/projet_robotique/build/tugbot_navigation2
+[1.433s] Invoked command in '/home/omen/projet_robotique/build/tugbot_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_navigation2
+[1.434s] Invoking command in '/home/omen/projet_robotique/build/tugbot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_navigation2 -- -j16 -l16
+[1.507s] Invoked command in '/home/omen/projet_robotique/build/tugbot_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_navigation2 -- -j16 -l16
+[1.523s] Invoking command in '/home/omen/projet_robotique/build/tugbot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/omen/projet_robotique/build/tugbot_navigation2
+[1.538s] -- Install configuration: ""
+[1.538s] -- Execute custom install script
+[1.539s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_navigation2/share/tugbot_navigation2//launch/navigation2.launch.py
+[1.559s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_navigation2/share/tugbot_navigation2//config/navigation2.yaml
+[1.574s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_navigation2/share/tugbot_navigation2//rviz/nav2.rviz
+[1.587s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:105 (message):
+[1.587s]   ament_cmake_symlink_install_directory() can't find
+[1.587s]   '/home/omen/projet_robotique/src/tugbot_navigation2/map'
+[1.588s] Call Stack (most recent call first):
+[1.588s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:319 (ament_cmake_symlink_install_directory)
+[1.588s]   cmake_install.cmake:46 (include)
+[1.589s] 
+[1.589s] [0m
+[1.590s] Invoked command in '/home/omen/projet_robotique/build/tugbot_navigation2' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/omen/projet_robotique/build/tugbot_navigation2

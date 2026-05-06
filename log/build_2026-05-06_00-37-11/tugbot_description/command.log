@@ -1,0 +1,1 @@
+Invoking command in '/home/omen/projet_robotique/build/tugbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_description

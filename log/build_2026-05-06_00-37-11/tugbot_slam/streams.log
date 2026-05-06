@@ -1,0 +1,49 @@
+[0.029s] Invoking command in '/home/omen/projet_robotique/build/tugbot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_slam -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_slam
+[0.205s] -- The C compiler identification is GNU 13.3.0
+[0.342s] -- The CXX compiler identification is GNU 13.3.0
+[0.373s] -- Detecting C compiler ABI info
+[0.534s] -- Detecting C compiler ABI info - done
+[0.551s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.551s] -- Detecting C compile features
+[0.552s] -- Detecting C compile features - done
+[0.566s] -- Detecting CXX compiler ABI info
+[0.728s] -- Detecting CXX compiler ABI info - done
+[0.740s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.741s] -- Detecting CXX compile features
+[0.741s] -- Detecting CXX compile features - done
+[0.754s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.996s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.129s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.217s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.397s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.397s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.399s] -- Added test 'lint_cmake' to check CMake code style
+[1.400s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.402s] -- Added test 'xmllint' to check XML markup files
+[1.405s] -- Configuring done (1.3s)
+[1.410s] -- Generating done (0.0s)
+[1.414s] -- Build files have been written to: /home/omen/projet_robotique/build/tugbot_slam
+[1.424s] Invoked command in '/home/omen/projet_robotique/build/tugbot_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_slam -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_slam
+[1.426s] Invoking command in '/home/omen/projet_robotique/build/tugbot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_slam -- -j16 -l16
+[1.524s] Invoked command in '/home/omen/projet_robotique/build/tugbot_slam' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_slam -- -j16 -l16
+[1.527s] Invoking command in '/home/omen/projet_robotique/build/tugbot_slam': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/omen/projet_robotique/build/tugbot_slam
+[1.541s] -- Install configuration: ""
+[1.542s] -- Execute custom install script
+[1.543s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam//launch/slam_toolbox.launch.py
+[1.563s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam//config/mapper_params_offline.yaml
+[1.582s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam//rviz/default.rviz
+[1.600s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/ament_index/resource_index/package_run_dependencies/tugbot_slam
+[1.610s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/ament_index/resource_index/parent_prefix_path/tugbot_slam
+[1.626s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/environment/ament_prefix_path.sh
+[1.640s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/environment/ament_prefix_path.dsv
+[1.654s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/environment/path.sh
+[1.667s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/environment/path.dsv
+[1.680s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/local_setup.bash
+[1.692s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/local_setup.sh
+[1.706s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/local_setup.zsh
+[1.720s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/local_setup.dsv
+[1.732s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/package.dsv
+[1.744s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/ament_index/resource_index/packages/tugbot_slam
+[1.758s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/cmake/tugbot_slamConfig.cmake
+[1.772s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/cmake/tugbot_slamConfig-version.cmake
+[1.785s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_slam/share/tugbot_slam/package.xml

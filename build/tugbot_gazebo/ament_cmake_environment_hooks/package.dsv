@@ -1,0 +1,4 @@
+source;share/tugbot_gazebo/local_setup.bash
+source;share/tugbot_gazebo/local_setup.dsv
+source;share/tugbot_gazebo/local_setup.sh
+source;share/tugbot_gazebo/local_setup.zsh

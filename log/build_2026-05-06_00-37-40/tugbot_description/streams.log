@@ -1,0 +1,38 @@
+[0.019s] Invoking command in '/home/omen/projet_robotique/build/tugbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_description -- -j16 -l16
+[0.112s] Invoked command in '/home/omen/projet_robotique/build/tugbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_description -- -j16 -l16
+[0.114s] Invoking command in '/home/omen/projet_robotique/build/tugbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/omen/projet_robotique/build/tugbot_description
+[0.135s] -- Install configuration: ""
+[0.136s] -- Execute custom install script
+[0.136s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//launch/tugbot_description.launch.py
+[0.155s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/VLP16_base_1.dae
+[0.170s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/VLP16_base_2.dae
+[0.187s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/VLP16_scan.dae
+[0.206s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/logo-new.png
+[0.221s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/movai-logo.png
+[0.235s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/movai_logo.dae
+[0.251s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/tugbot_simp.dae
+[0.272s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/tugbot_simp.stl
+[0.289s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/gripper2/gripper2.dae
+[0.306s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/gripper2/gripper_hand.stl
+[0.328s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/light_link/light.stl
+[0.350s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/light_link/light_led.stl
+[0.368s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/wheel/wheel.dae
+[0.389s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//urdf/model.sdf
+[0.411s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//urdf/model.urdf
+[0.429s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//urdf/rviz.rviz
+[0.444s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/ament_index/resource_index/package_run_dependencies/tugbot_description
+[0.462s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/ament_index/resource_index/parent_prefix_path/tugbot_description
+[0.479s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/ament_prefix_path.sh
+[0.500s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/ament_prefix_path.dsv
+[0.520s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/path.sh
+[0.539s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/path.dsv
+[0.558s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.bash
+[0.577s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.sh
+[0.595s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.zsh
+[0.614s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.dsv
+[0.631s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/package.dsv
+[0.649s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/ament_index/resource_index/packages/tugbot_description
+[0.666s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/cmake/tugbot_descriptionConfig.cmake
+[0.683s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/cmake/tugbot_descriptionConfig-version.cmake
+[0.699s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/package.xml
+[0.720s] Invoked command in '/home/omen/projet_robotique/build/tugbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/omen/projet_robotique/build/tugbot_description

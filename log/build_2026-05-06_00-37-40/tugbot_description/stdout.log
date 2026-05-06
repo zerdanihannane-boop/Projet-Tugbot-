@@ -1,0 +1,34 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//launch/tugbot_description.launch.py
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/VLP16_base_1.dae
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/VLP16_base_2.dae
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/VLP16_scan.dae
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/logo-new.png
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/movai-logo.png
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/movai_logo.dae
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/tugbot_simp.dae
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/base/tugbot_simp.stl
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/gripper2/gripper2.dae
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/gripper2/gripper_hand.stl
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/light_link/light.stl
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/light_link/light_led.stl
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//meshes/wheel/wheel.dae
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//urdf/model.sdf
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//urdf/model.urdf
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description//urdf/rviz.rviz
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/ament_index/resource_index/package_run_dependencies/tugbot_description
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/ament_index/resource_index/parent_prefix_path/tugbot_description
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/path.sh
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/environment/path.dsv
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.bash
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.sh
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.zsh
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/local_setup.dsv
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/package.dsv
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/ament_index/resource_index/packages/tugbot_description
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/cmake/tugbot_descriptionConfig.cmake
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/cmake/tugbot_descriptionConfig-version.cmake
+-- Symlinking: /home/omen/projet_robotique/install/tugbot_description/share/tugbot_description/package.xml

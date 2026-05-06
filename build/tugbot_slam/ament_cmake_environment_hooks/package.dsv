@@ -1,0 +1,4 @@
+source;share/tugbot_slam/local_setup.bash
+source;share/tugbot_slam/local_setup.dsv
+source;share/tugbot_slam/local_setup.sh
+source;share/tugbot_slam/local_setup.zsh

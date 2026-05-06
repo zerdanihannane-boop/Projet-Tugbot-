@@ -1,0 +1,49 @@
+[0.027s] Invoking command in '/home/omen/projet_robotique/build/tugbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_gazebo
+[0.213s] -- The C compiler identification is GNU 13.3.0
+[0.349s] -- The CXX compiler identification is GNU 13.3.0
+[0.381s] -- Detecting C compiler ABI info
+[0.542s] -- Detecting C compiler ABI info - done
+[0.555s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.556s] -- Detecting C compile features
+[0.556s] -- Detecting C compile features - done
+[0.572s] -- Detecting CXX compiler ABI info
+[0.738s] -- Detecting CXX compiler ABI info - done
+[0.758s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.758s] -- Detecting CXX compile features
+[0.759s] -- Detecting CXX compile features - done
+[0.765s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.013s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.137s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.210s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.406s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.406s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.408s] -- Added test 'lint_cmake' to check CMake code style
+[1.410s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.413s] -- Added test 'xmllint' to check XML markup files
+[1.418s] -- Configuring done (1.4s)
+[1.429s] -- Generating done (0.0s)
+[1.435s] -- Build files have been written to: /home/omen/projet_robotique/build/tugbot_gazebo
+[1.455s] Invoked command in '/home/omen/projet_robotique/build/tugbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/omen/projet_robotique/src/tugbot_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/omen/projet_robotique/install/tugbot_gazebo
+[1.457s] Invoking command in '/home/omen/projet_robotique/build/tugbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_gazebo -- -j16 -l16
+[1.536s] Invoked command in '/home/omen/projet_robotique/build/tugbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/omen/projet_robotique/build/tugbot_gazebo -- -j16 -l16
+[1.539s] Invoking command in '/home/omen/projet_robotique/build/tugbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/omen/projet_robotique/build/tugbot_gazebo
+[1.556s] -- Install configuration: ""
+[1.557s] -- Execute custom install script
+[1.558s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo//launch/ign_ros2_bridge.launch.py
+[1.574s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo//launch/tugbot_depot.launch.py
+[1.588s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo//worlds/tugbot_depot.sdf
+[1.607s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/ament_index/resource_index/package_run_dependencies/tugbot_gazebo
+[1.617s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/ament_index/resource_index/parent_prefix_path/tugbot_gazebo
+[1.635s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/environment/ament_prefix_path.sh
+[1.650s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/environment/ament_prefix_path.dsv
+[1.663s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/environment/path.sh
+[1.681s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/environment/path.dsv
+[1.695s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.bash
+[1.708s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.sh
+[1.725s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.zsh
+[1.739s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.dsv
+[1.751s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/package.dsv
+[1.766s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/ament_index/resource_index/packages/tugbot_gazebo
+[1.779s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/cmake/tugbot_gazeboConfig.cmake
+[1.792s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/cmake/tugbot_gazeboConfig-version.cmake
+[1.808s] -- Symlinking: /home/omen/projet_robotique/install/tugbot_gazebo/share/tugbot_gazebo/package.xml
